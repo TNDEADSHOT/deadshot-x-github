@@ -1,0 +1,40 @@
+{
+   "token": "OTIyODAzMDE0ODQ5NDIxMzIy.YcGxRw.htWeDPfP4L71LJ3c4-vOKtXDAaw",
+   "prefix": "!",
+   "ownerIDS": [
+      "772416455312146432"
+   ],
+   "memer_api": "g5SOlSadRiK",
+   "status": {
+      "text": "!help | BY TNDEADSHOT | ?playsc 'songname' to play song",
+      "text2": "Updated version of Deadshot X ",
+      "type": "LIVE",
+      "url": "https://youtu.be/dQw4w9WgXcQ"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "losingtime.dpaste.org",
+            "port": 2124,
+            "password": "SleepingOnTrains",
+            "retryDelay": 4000,
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
