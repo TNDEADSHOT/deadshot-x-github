@@ -68,7 +68,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Menu Apply Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://discord.gg/milrato')
+          .setAuthor('Menu Apply Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://discord.gg/DEADSHOT X')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
           
         //send the menu msg
@@ -155,7 +155,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Menu Apply Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://discord.gg/milrato')
+          .setAuthor('Menu Apply Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://discord.gg/DEADSHOT X')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
           
         //send the menu msg
@@ -375,7 +375,7 @@ module.exports = {
             //define the embed
             let MenuEmbed = new Discord.MessageEmbed()
               .setColor(es.color)
-              .setAuthor('Menu Apply Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://discord.gg/milrato')
+              .setAuthor('Menu Apply Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://discord.gg/DEADSHOT X')
               .setDescription("Select which Application System should be started with this Option")
             //send the menu msg
             let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -618,10 +618,10 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

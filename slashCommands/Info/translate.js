@@ -23,7 +23,7 @@ module.exports = {
       translate(args.slice(2).join(" "), {from: args[0], to: args[1]}).then(res=>{
         let embed = new MessageEmbed()
         .setColor(es.color)
-        .setAuthor(handlemsg(client.la[ls].cmds.info.translate.to, { to: args[1] }), "https://imgur.com/0DQuCgg.png", "https://discord.gg/milrato")
+        .setAuthor(handlemsg(client.la[ls].cmds.info.translate.to, { to: args[1] }), "https://imgur.com/0DQuCgg.png", "https://discord.gg/DEADSHOT X")
         .setFooter(handlemsg(client.la[ls].cmds.info.translate.from, { from: args[0] }), member.user.displayAvatarURL({dynamic:true}))
         .setDescription(eval(client.la[ls]["cmds"]["info"]["translate"]["variable1"]))
         interaction?.reply({ephemeral: true, embeds: [embed]})
@@ -42,10 +42,10 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by TN DEADSHOT#8167 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

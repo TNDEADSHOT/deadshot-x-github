@@ -3,7 +3,8 @@
 
 # Important notes and thank ❤️
 First of all, thanks for using this Source Code, it was and is a ton of work to create and maintain it!
-That's why I'm asking everyone to [**donate a little bit of money**](https://donate.milrato.dev) or if that's not possible, then join my [Discord Server](https://discord.gg/milrato)!
+That's why I'm asking everyone to [**donate a little bit of money**](https://donate.DEADSHOT X.dev) or if that's not possible, then join my [Discord Server](https://dsc.gg/deadshotgaming
+)!
 
 # Installation Guide 🔥
 
@@ -14,8 +15,8 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 
   * [nodejs](https://nodejs.org) version 16.6 or higher, i recommend the latest STABLE version
   * [python](https://python.org) version 3.8 or higher, to install the database `enmap` (better-sqlite3)
-  * a VPS would be adviced, so you don't need to keep your pc/laptop/raspi 24/7 online! [click here for a debian setup](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/)
-  * Check out my Recommended Host: [BERO-HOST](https://bero.milrato.dev) and use code `milrato` for cheap OP VPS (kvm)
+  * a VPS would be adviced, so you don't need to keep your pc/laptop/raspi 24/7 online! [click here for a debian setup](https://github.com/TN DEADSHOT#8167/Debian-Cheat-Sheet-Setup/wiki/)
+  * Check out my Recommended Host: [BERO-HOST](https://bero.DEADSHOT X.dev) and use code `DEADSHOT X` for cheap OP VPS (kvm)
   * [Click here for a Direct Order Link](https://bero-host.de/server/prepaid-kvm-rootserver-paket-mieten)
 
 </details>
@@ -25,8 +26,8 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 <details>
   <summary>Click to expand</summary>
 
-  1. Download the [Source Code](https://github.com/Tomato6966/Multipurpose-discord-bot/archive/refs/tags/10.0.1.zip)
-     * either by: `git clone https://github.com/Tomato6966/Multipurpose-discord-bot`
+  1. Download the [Source Code](https://github.com/TN DEADSHOT#8167/Multipurpose-discord-bot/archive/refs/tags/10.0.1.zip)
+     * either by: `git clone https://github.com/TN DEADSHOT#8167/Multipurpose-discord-bot`
      * or by downloading it as a zip from the releases or a branch
   
 </details>
@@ -41,8 +42,8 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
   An example for a public configuration will be listed down below
    
   1. Make sure `Java 11` is installed on your System!
-     * [Click here for a Download for **Linux**](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.5.2-java-11)
-     * [Click here for a Download for **Windows**](https://downloads.milrato.eu/windows/java/jdk-11.0.11.exe) ​
+     * [Click here for a Download for **Linux**](https://github.com/TN DEADSHOT#8167/Debian-Cheat-Sheet-Setup/wiki/3.5.2-java-11)
+     * [Click here for a Download for **Windows**](https://downloads.DEADSHOT X.eu/windows/java/jdk-11.0.11.exe) ​
   2. Download [Lavalink.jar](https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar)
      * here is a direct link: https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar
      * if you are on linux do this: `wget https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar` (prep: `apt-get install -y wget`)
@@ -99,7 +100,7 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
    3. Fill in all required data in the `.json` Files in `./social_log/` (`./social_log/streamconfig.json` & `./social_log/twitter.json`), if you want the SOCIAL LOGS to work! (the key `authToken` in streamconfig is not needed to be filled in!)
    4. You can adjust some settings in the other `./botconfig/*.json` Files, **BUT PLEASE __KEEP__ MY CREDITS & ADS!** This is the only way on how my hard work is "revenued"
    5. Now start the bot by typing opening a cmd in that folder and type: `node index.js` or `npm start`
-     * If you don't want to keep the terminal open or if you're on linux, check out [pm2 (and my tutorial)](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/4-pm2-tutorial) and type: `pm2 start --name Bot_Name index.js`
+     * If you don't want to keep the terminal open or if you're on linux, check out [pm2 (and my tutorial)](https://github.com/TN DEADSHOT#8167/Debian-Cheat-Sheet-Setup/wiki/4-pm2-tutorial) and type: `pm2 start --name Bot_Name index.js`
   
 </details>
 
@@ -127,7 +128,7 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 
 ## 😩 Have Problems while installing?
 
-> [Check the FAQ](https://github.com/Tomato6966/Multipurpose-discord-bot/wiki)
+> [Check the FAQ](https://github.com/TN DEADSHOT#8167/Multipurpose-discord-bot/wiki)
 
 
 ## 😎 Setup-Tutorial Video
@@ -137,13 +138,13 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 https://user-images.githubusercontent.com/68145571/150640306-d643f59a-c977-43ae-9aa6-7f3d2ec7f119.mp4
 
 
-## 🙏 SUPPORT ME AND MILRATO DEVELOPMENT
+## 🙏 SUPPORT ME AND DEADSHOT X DEVELOPMENT
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.DEADSHOT X.dev)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
+[![DEADSHOT X Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://DEADSHOT X.DEADSHOT X.dev)
 
 # ✌️ Credits
 

@@ -53,10 +53,10 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://milrato.eue
+ * Bot Coded by DEADSHOT X#6966 | https://DEADSHOT X.eue
  * @INFO
- * Work for Milrato Development | https://discord.gg/milrato
+ * Work for DEADSHOT X Development | https://discord.gg/DEADSHOT X
  * @INFO
- * Please mention Him / Milrato Development, when using this Code!
+ * Please mention Him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

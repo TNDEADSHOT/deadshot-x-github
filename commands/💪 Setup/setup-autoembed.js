@@ -68,7 +68,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
         .setColor(es.color)
-        .setAuthor('Auto Embed Setup', 'https://cdn.discordapp.com/emojis/850829013438300221.png?size=96', 'https://discord.gg/milrato')
+        .setAuthor('Auto Embed Setup', 'https://cdn.discordapp.com/emojis/850829013438300221.png?size=96', 'https://discord.gg/DEADSHOT X')
         .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         let used1 = false;
         //send the menu msg
@@ -279,10 +279,10 @@ function getNumberEmojis() {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

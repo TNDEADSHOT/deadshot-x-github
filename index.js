@@ -11,7 +11,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: TOMato6966 | https://milrato.eu
+ *   BOT CODED BY: DEADSHOT X6966 | https://DEADSHOT X.eu
  *********************************************************/
 
 
@@ -73,7 +73,7 @@ const client = new Discord.Client({
 
 
 /**********************************************************
- * @param {4} Create_the_client.memer property from Tomato's Api 
+ * @param {4} Create_the_client.memer property from DEADSHOT X's Api 
  *********************************************************/
 client.memer = new Meme(process.env.memer_api || config.memer_api); // GET a TOKEN HERE: https://discord.gg/Mc2FudJkgP
 
@@ -150,10 +150,10 @@ client.login(config.token);
 
 /**********************************************************
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  *********************************************************/

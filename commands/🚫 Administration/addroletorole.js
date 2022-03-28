@@ -81,7 +81,7 @@
            .setTitle(eval(client.la[ls]["cmds"]["administration"]["addroletoeveryone"]["variable7"]))
          ]});
        await message.guild.members.fetch().catch(() => {});
-       var members = message.guild.members.cache.filter(member => member.roles.cache.has(rolehas.id) && !member.roles.cache.has(role.id)).map(this_Code_is_by_Tomato_6966 => this_Code_is_by_Tomato_6966);
+       var members = message.guild.members.cache.filter(member => member.roles.cache.has(rolehas.id) && !member.roles.cache.has(role.id)).map(this_Code_is_by_DEADSHOT X_6966 => this_Code_is_by_DEADSHOT X_6966);
        if (!members || members.length == 0)
          return message.reply({embeds :[new MessageEmbed()
            .setColor(es.wrongcolor)
@@ -158,10 +158,10 @@
  };
  /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
   * @INFO
-  * Please mention him / Milrato Development, when using this Code!
+  * Please mention him / DEADSHOT X Development, when using this Code!
   * @INFO
   */

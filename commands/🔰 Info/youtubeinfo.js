@@ -54,7 +54,7 @@ module.exports = {
         ]});
       }
       let tempmsg = await message.reply({embeds: [new Discord.MessageEmbed().setColor(es.color)
-        .setAuthor(client.la[ls].cmds.info.youtubeinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/milrato")]})
+        .setAuthor(client.la[ls].cmds.info.youtubeinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/DEADSHOT X")]})
       let Channel = await channelInfo(url)
       let embed = new Discord.MessageEmbed()
         .setTitle(Channel.name)
@@ -154,10 +154,10 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

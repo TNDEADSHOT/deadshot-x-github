@@ -16,8 +16,9 @@ module.exports = {
 		
 		try {	
 			let button_public_invite = new MessageButton().setStyle('LINK').setLabel(client.la[ls].cmds.info.developer.buttons.invite).setURL("https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot%20applications.commands")
-			let button_support_dc = new MessageButton().setStyle('LINK').setLabel(client.la[ls].cmds.info.developer.buttons.dc).setURL("https://discord.gg/milrato")
-			let button_invite = new MessageButton().setStyle('LINK').setLabel(client.la[ls].cmds.info.developer.buttons.botlist).setURL(`https://botlist.milrato.eu`)
+			let button_support_dc = new MessageButton().setStyle('LINK').setLabel(client.la[ls].cmds.info.developer.buttons.dc).setURL("https://dsc.gg/deadshotgaming
+")
+			let button_invite = new MessageButton().setStyle('LINK').setLabel(client.la[ls].cmds.info.developer.buttons.botlist).setURL(`https://botlist.DEADSHOT X.eu`)
 			const allbuttons = [new MessageActionRow().addComponents([button_public_invite, button_support_dc, button_invite])]
 			interaction?.reply({embeds: [new MessageEmbed()
 				.setColor(es.color)
@@ -25,7 +26,7 @@ module.exports = {
 				.setTimestamp()
 				.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
 				.setTitle(client.la[ls].cmds.info.developer.title)
-				.setURL("https://milrato.eu")
+				.setURL("https://DEADSHOT X.eu")
 				.setDescription(client.la[ls].cmds.info.developer.description)],
 components: allbuttons
 			}).catch(error => console.log(error));
@@ -42,10 +43,11 @@ components: allbuttons
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

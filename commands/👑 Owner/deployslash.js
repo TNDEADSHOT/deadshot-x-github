@@ -29,7 +29,7 @@ module.exports = {
         embeds: [new MessageEmbed()
           .setColor(es.wrongcolor)
           .setFooter(client.user.username, es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL())
-          .setTitle("Only Tomato is allowed to deploy the SLASH-COMMANDS")
+          .setTitle("Only DEADSHOT X is allowed to deploy the SLASH-COMMANDS")
           .setDescription(`Go to the [Discord-Server]( https://dsc.gg/deadshotx), open a Ticket and ask for it!`)
         ]
       });
@@ -72,10 +72,10 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

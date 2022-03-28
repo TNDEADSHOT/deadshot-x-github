@@ -5,7 +5,7 @@ const { MessageEmbed } = require("discord.js")
 const Enmap = require("enmap");
 const serialize = require('serialize-javascript');
 const ee = require(`${process.cwd()}/botconfig/embed.json`);
-console.log("Welcome to SERVICE HANDLER /--/ By https://milrato.eu /--/ Discord: Tomato#6966".yellow);
+console.log("Welcome to SERVICE HANDLER /--/ By https://DEADSHOT X.eu /--/ Discord: DEADSHOT X#6966".yellow);
 module.exports = (client) => {
   try {
     readdirSync("./commands/").forEach((dir) => {
@@ -148,11 +148,11 @@ module.exports = (client) => {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */
 

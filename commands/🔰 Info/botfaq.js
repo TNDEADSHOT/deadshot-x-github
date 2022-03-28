@@ -15,9 +15,9 @@ module.exports = {
     let es = client.settings.get(message.guild.id, "embed");let ls = client.settings.get(message.guild.id, "language")
     
 		try{
-      let milratodc = client.guilds.cache.get("773668217163218944")
-      let milratomembers = await milratodc.members.fetch().catch(() => {});
-      let partnercount = milratomembers.filter(m => m.roles.cache.has("823150244509515807"))
+      let DEADSHOT Xdc = client.guilds.cache.get("773668217163218944")
+      let DEADSHOT Xmembers = await DEADSHOT Xdc.members.fetch().catch(() => {});
+      let partnercount = DEADSHOT Xmembers.filter(m => m.roles.cache.has("823150244509515807"))
       partnercount = partnercount.map(m=>m.id).length
       
       let menuoptions = [
@@ -132,10 +132,10 @@ module.exports = {
 };
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
   * @INFO
-  * Please mention him / Milrato Development, when using this Code!
+  * Please mention him / DEADSHOT X Development, when using this Code!
   * @INFO
 */

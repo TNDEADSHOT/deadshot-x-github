@@ -17,13 +17,13 @@ module.exports = {
 			let embed1 = new MessageEmbed()
 		    .setColor(es.color)
 		    .setTitle(eval(client.la[ls]["cmds"]["info"]["sponsor"]["variable1"]))
-		    .setURL("http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato")
+		    .setURL("http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=DEADSHOT X")
 		    .setDescription(`
 Third Sponsor of This Bot is:
 **BERO-HOST** THE BEST HOSTER
 <:arrow:832598861813776394> BERO-HOST.de is sponsoring them with some free / cheaper Hosting Methods,
 <:arrow:832598861813776394> Thanks to them, we are able to host our Website, Bots and GAME SERVERS
-<:arrow:832598861813776394> Our suggestion is, if you want to host Bots / Games / Websites, then go to [BERO-HOST.de](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato)
+<:arrow:832598861813776394> Our suggestion is, if you want to host Bots / Games / Websites, then go to [BERO-HOST.de](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=DEADSHOT X)
 
 **What they are offering:**
 <:arrow:832598861813776394> **>>** Minecraft Hosting, CounterStrike: Global Offensive, Garry's Mod, ARK, ARMA 3, ...
@@ -33,8 +33,8 @@ Third Sponsor of This Bot is:
 <:arrow:832598861813776394> **>>** Linux & Windows Root Servers
 
 [**Discord Server:**](https://discord.bero-host.de)
-[**Website:**](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato)
-[**__SPONSOR LINK!__**](https://milrato.eu/img/paysafecard.png)
+[**Website:**](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=DEADSHOT X)
+[**__SPONSOR LINK!__**](https://DEADSHOT X.eu/img/paysafecard.png)
 `)
 		    .setImage("https://cdn.bero-host.de/img/logo/bero_white.png")
 		    .setFooter("BERO-HOST",  "https://imgur.com/jXyDEyb?.png")
@@ -66,10 +66,10 @@ Third Sponsor of This Bot is:
 }
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
   * @INFO
-  * Please mention him / Milrato Development, when using this Code!
+  * Please mention him / DEADSHOT X Development, when using this Code!
   * @INFO
 */

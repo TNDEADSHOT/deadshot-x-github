@@ -44,10 +44,10 @@ components: allbuttons
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/CVRHqHV7yE
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/CVRHqHV7yE
  * @INFO
- * Work for Milrato Development | crimexop.ml
+ * Work for DEADSHOT X Development | crimexop.ml
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */

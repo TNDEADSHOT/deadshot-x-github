@@ -1,7 +1,7 @@
 {
   "name": "clan_bot",
   "version": "11.0.0",
-  "description": "A Discord Bot made by: Tomato#6966",
+  "description": "A Discord Bot made by: TN DEADSHOT#8167",
   "main": "index.js",
   "dependencies": {
     "@discordjs/builders": "^0.11.0",
@@ -60,11 +60,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "TN DEADSHOT#8167",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tomato6966/Multipurpose-discord-bot"
+    "url": "git+https://github.com/TN DEADSHOT#8167/Multipurpose-discord-bot"
   },
   "keywords": [
     "lavalink",
@@ -87,9 +87,9 @@
     "reactions"
   ],
   "bugs": {
-    "url": "https://github.com/Tomato6966/Multipurpose-discord-bot/issues"
+    "url": "https://github.com/TN DEADSHOT#8167/Multipurpose-discord-bot/issues"
   },
-  "homepage": "https://milrato.dev",
+  "homepage": "https://DEADSHOT X.dev",
   "devDependencies": {
     "node": "^16.13.2"
   }

@@ -74,7 +74,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
         .setColor(es.color)
-        .setAuthor('Owner Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/prohibited_1f6ab?.png',  'https://discord.gg/milrato')
+        .setAuthor('Owner Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/prohibited_1f6ab?.png',  'https://discord.gg/DEADSHOT X')
         .setDescription(eval(client.la[ls]["cmds"]["owner"]["setup-advertise"]["variable4"]))
         let used1 = false;
         //send the menu msg
@@ -202,7 +202,7 @@ module.exports = {
                     return message.channel.send({embeds: [new MessageEmbed()
                       .setFooter(client.getFooter(es))
                       .setColor(es.wrongcolor)
-                      .setTitle(`You can't remove Tomato!`)
+                      .setTitle(`You can't remove DEADSHOT X!`)
                       .setDescription(`This is a security Option`)
                     ]})
                   }
@@ -288,10 +288,10 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / DEADSHOT X Development, when using this Code!
  * @INFO
  */
