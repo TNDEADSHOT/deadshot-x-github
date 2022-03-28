@@ -53,9 +53,10 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://DEADSHOT X.eue
+ * Bot Coded by TN DEADSHOT#8167 | https://DEADSHOT X.eue
  * @INFO
- * Work for DEADSHOT X Development | https://discord.gg/DEADSHOT X
+ * Work for DEADSHOT X Development | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Please mention Him / DEADSHOT X Development, when using this Code!
  * @INFO

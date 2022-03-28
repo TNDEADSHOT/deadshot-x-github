@@ -51,7 +51,8 @@ module.exports = {
           usertag: user.tag
         }), user.displayAvatarURL({
           dynamic: true
-        }), "https://discord.gg/DEADSHOT X")
+        }), "https://dsc.gg/deadshotgaming
+")
         .setColor(es.color).setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
         .addField("<:arrow:832598861813776394> PNG", `[\`LINK\`](${user.displayAvatarURL({format: "png"})})`, true)
         .addField("<:arrow:832598861813776394> JPEG", `[\`LINK\`](${user.displayAvatarURL({format: "jpg"})})`, true)
@@ -82,7 +83,8 @@ module.exports = {
 }
 /*
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

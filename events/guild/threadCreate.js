@@ -10,7 +10,8 @@ module.exports = async (client, thread) => {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

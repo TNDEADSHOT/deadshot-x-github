@@ -11,7 +11,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: DEADSHOT X6966 | https://DEADSHOT X.eu
+ *   BOT CODED BY: TN DEADSHOT#8167 | https://DEADSHOT X.eu
  *********************************************************/
 
 
@@ -150,7 +150,8 @@ client.login(config.token);
 
 /**********************************************************
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

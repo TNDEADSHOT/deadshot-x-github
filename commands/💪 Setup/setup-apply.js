@@ -94,7 +94,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Application Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://discord.gg/DEADSHOT X')
+          .setAuthor('Application Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://dsc.gg/deadshotgaming
+')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         let used1 = false;
         //send the menu msg
@@ -310,7 +311,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor(SetupNumber + " Apply Setup", "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/incoming-envelope_1f4e8.png", "https://discord.gg/DEADSHOT X")
+          .setAuthor(SetupNumber + " Apply Setup", "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/incoming-envelope_1f4e8.png", "https://dsc.gg/deadshotgaming
+")
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable4"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -2665,7 +2667,7 @@ module.exports = {
             .setFooter(client.getFooter(es))
 
             .setColor(es.color)
-            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable174"])) //DEADSHOT X#6966
+            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable174"])) //TN DEADSHOT#8167
             .setFooter("ADD THE INDEX TO EDIT THE MSG", message.guild.iconURL({
               dynamic: true
             }))
@@ -2836,7 +2838,7 @@ module.exports = {
                     Questions = apply_for_here.get(message.guild.id, "QUESTIONS");
                     var new_embed = new Discord.MessageEmbed().setFooter(client.getFooter(es))
                       .setColor(es.color)
-                      .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable177"])) //DEADSHOT X#6966
+                      .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable177"])) //TN DEADSHOT#8167
                       .setFooter(message.guild.name, message.guild.iconURL({
                         dynamic: true
                       }))
@@ -3092,7 +3094,7 @@ module.exports = {
               Questions = apply_for_here.get(message.guild.id, "QUESTIONS");
               var embed = new Discord.MessageEmbed().setFooter(client.getFooter(es))
                 .setColor(es.color)
-                .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable188"])) //DEADSHOT X#6966
+                .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable188"])) //TN DEADSHOT#8167
                 .setFooter(message.guild.name, message.guild.iconURL({
                   dynamic: true
                 }))
@@ -3128,7 +3130,7 @@ module.exports = {
             .setFooter(client.getFooter(es))
 
             .setColor(es.color)
-            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable190"])) //DEADSHOT X#6966
+            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable190"])) //TN DEADSHOT#8167
             .setFooter("ADD THE INDEX TO EDIT THE MSG", message.guild.iconURL({
               dynamic: true
             }))
@@ -3184,7 +3186,7 @@ module.exports = {
                 Questions = apply_for_here.get(message.guild.id, "QUESTIONS");
                 var new_embed = new Discord.MessageEmbed().setFooter(client.getFooter(es))
                   .setColor(es.color)
-                  .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable193"])) //DEADSHOT X#6966
+                  .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable193"])) //TN DEADSHOT#8167
                   .setFooter(message.guild.name, message.guild.iconURL({
                     dynamic: true
                   }))
@@ -3470,8 +3472,8 @@ module.exports = {
           var embed = new Discord.MessageEmbed()
             .setFooter(client.getFooter(es))
             .setColor(es.color)
-            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable219"])) //DEADSHOT X#6966
-            .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable220"])) //DEADSHOT X#6966
+            .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable219"])) //TN DEADSHOT#8167
+            .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-apply"]["variable220"])) //TN DEADSHOT#8167
             .setTimestamp()
           message.reply({
             embeds: [embed]
@@ -3494,7 +3496,7 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://github?.com/DEADSHOT X6966/Discord-Js-Handler-Template
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/TN DEADSHOT#8167/Discord-Js-Handler-Template
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

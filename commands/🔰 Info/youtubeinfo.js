@@ -54,7 +54,8 @@ module.exports = {
         ]});
       }
       let tempmsg = await message.reply({embeds: [new Discord.MessageEmbed().setColor(es.color)
-        .setAuthor(client.la[ls].cmds.info.youtubeinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/DEADSHOT X")]})
+        .setAuthor(client.la[ls].cmds.info.youtubeinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://dsc.gg/deadshotgaming
+")]})
       let Channel = await channelInfo(url)
       let embed = new Discord.MessageEmbed()
         .setTitle(Channel.name)
@@ -154,7 +155,8 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

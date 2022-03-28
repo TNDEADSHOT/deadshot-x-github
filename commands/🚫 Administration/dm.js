@@ -45,7 +45,8 @@ module.exports = {
           member.send({embeds : [new MessageEmbed()
             .setColor(es.color).setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
             .setFooter(client.getFooter(es))
-            .setAuthor(`Message from: ${message.author.username}`, message.author.displayAvatarURL({dynamic:true}), "https://discord.gg/DEADSHOT X")
+            .setAuthor(`Message from: ${message.author.username}`, message.author.displayAvatarURL({dynamic:true}), "https://dsc.gg/deadshotgaming
+")
             .setDescription(args.slice(1).join(" ").substr(0, 2048))
           ]})
           message.reply({embeds : [new MessageEmbed()
@@ -94,7 +95,8 @@ module.exports = {
             await member.send({embeds : [new MessageEmbed()
               .setColor(es.color).setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
               .setFooter(client.getFooter(es))
-              .setAuthor(`Message from: ${message.author.username}`, message.author.displayAvatarURL({dynamic:true}), "https://discord.gg/DEADSHOT X")
+              .setAuthor(`Message from: ${message.author.username}`, message.author.displayAvatarURL({dynamic:true}), "https://dsc.gg/deadshotgaming
+")
               .setDescription(args.slice(1).join(" ").substr(0, 2048))
             ]}).catch(e=>{
               failedd = true
@@ -152,7 +154,7 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://github?.com/DEADSHOT X6966/Discord-Js-Handler-Template
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/TN DEADSHOT#8167/Discord-Js-Handler-Template
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

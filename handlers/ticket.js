@@ -197,14 +197,16 @@ module.exports = (client) => {
           .setFooter(client.getFooter(`To close/manage this ticket react with the buttons\nYou can also type: ${client.settings.get(guild.id, "prefix")}ticket`, es.footericon))
           .setAuthor(client.getAuthor(`Ticket for: ${user.tag}`, user.displayAvatarURL({
             dynamic: true
-          }), "https://discord.gg/DEADSHOT X"))
+          }), "https://dsc.gg/deadshotgaming
+"))
           .setDescription(ticket.message.replace(/\{user\}/igu, `${user}`).substr(0, 2000))
         var ticketembeds = [ticketembed]
         if(ticket.claim.enabled){
           var claimEmbed = new MessageEmbed()
             .setColor("ORANGE").setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
             .setFooter(client.getFooter(es))
-            .setAuthor(client.getAuthor(`A Staff Member will claim the Ticket soon!`, "https://cdn.discordapp.com/emojis/833101350623117342.gif?size=44", "https://discord.gg/DEADSHOT X"))
+            .setAuthor(client.getAuthor(`A Staff Member will claim the Ticket soon!`, "https://cdn.discordapp.com/emojis/833101350623117342.gif?size=44", "https://dsc.gg/deadshotgaming
+"))
             .setDescription(ticket.claim.messageOpen.replace(/\{user\}/igu, `${user}`).substr(0, 2000))
             ticketembeds.push(claimEmbed)
         }

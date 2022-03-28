@@ -61,7 +61,8 @@ ${clientapp.description ? clientapp.description : "❌ NO DESCRIPTION YET!"}
         await client.destroy()
       let tempmsg = await message.channel.send({embeds :[new MessageEmbed()
         .setColor(es.color).setFooter(client.getFooter(es))
-        .setAuthor(`Reloading ...`, `https://images-ext-1.discordapp.net/external/ANU162U1fDdmQhim_BcbQ3lf4dLaIQl7p0HcqzD5wJA/https/cdn.discordapp.com/emojis/756773010123522058.gif`,  `https://discord.gg/DEADSHOT X`)
+        .setAuthor(`Reloading ...`, `https://images-ext-1.discordapp.net/external/ANU162U1fDdmQhim_BcbQ3lf4dLaIQl7p0HcqzD5wJA/https/cdn.discordapp.com/emojis/756773010123522058.gif`,  `https://dsc.gg/deadshotgaming
+`)
         .setTitle(eval(client.la[ls]["cmds"]["owner"]["reloadbot"]["variable4"]))
       ]})
       //clear the commands collection
@@ -121,7 +122,8 @@ ${clientapp.description ? clientapp.description : "❌ NO DESCRIPTION YET!"}
       await delay(3000);
       await tempmsg.edit({embeds: [new MessageEmbed()
         .setColor(es.color).setFooter(client.getFooter(es))
-        .setAuthor(`Successfully Reloaded:`, `https://cdn.discordapp.com/emojis/833101995723194437.gif?v=1`, `https://discord.gg/DEADSHOT X`)
+        .setAuthor(`Successfully Reloaded:`, `https://cdn.discordapp.com/emojis/833101995723194437.gif?v=1`, `https://dsc.gg/deadshotgaming
+`)
         .setTitle(eval(client.la[ls]["cmds"]["owner"]["reloadbot"]["variable6"]))
       ]})
     } catch (e) {
@@ -136,7 +138,8 @@ ${clientapp.description ? clientapp.description : "❌ NO DESCRIPTION YET!"}
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

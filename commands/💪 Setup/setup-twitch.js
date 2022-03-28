@@ -83,7 +83,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Twitch-Logger', 'https://cdn.discordapp.com/emojis/720391959746969710.gif?size=160', 'https://discord.gg/DEADSHOT X')
+          .setAuthor('Twitch-Logger', 'https://cdn.discordapp.com/emojis/720391959746969710.gif?size=160', 'https://dsc.gg/deadshotgaming
+')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -172,7 +173,8 @@ module.exports = {
           //define the embed
           let MenuEmbed = new MessageEmbed()
             .setColor(es.color)
-            .setAuthor('Twitch-Poster', 'https://cdn.discordapp.com/emojis/720391959746969710.gif?size=160', 'https://discord.gg/DEADSHOT X')
+            .setAuthor('Twitch-Poster', 'https://cdn.discordapp.com/emojis/720391959746969710.gif?size=160', 'https://dsc.gg/deadshotgaming
+')
             .setDescription("Select all Twitch Channels you want to remove!")
           //send the menu msg
           let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -483,7 +485,8 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

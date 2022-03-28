@@ -79,7 +79,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/DEADSHOT X')
+          .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming
+')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -169,7 +170,7 @@ module.exports = {
               var msg = collected.first();
               if(msg && msg.content ){
                 if((msg.content.length > 0 && msg.content.length < 50) &&!msg.content.toLowerCase().includes("youtube") && (!msg.content.toLowerCase().includes("channel") || !msg.content.toLowerCase().includes("c")))
-                  return message.reply("YOU DID NOT SEND A VALID YOUTUBE CHANNEL\nNote, such links doesn't work: `https://youtube.com/DEADSHOT X6966` / `https://youtube.com/c/DEADSHOT X6966`\nIt must be something like this: `https://www.youtube.com/channel/UC1AgotpFHNhzolUtAjPgZqQ`")
+                  return message.reply("YOU DID NOT SEND A VALID YOUTUBE CHANNEL\nNote, such links doesn't work: `https://youtube.com/TN DEADSHOT#8167` / `https://youtube.com/c/TN DEADSHOT#8167`\nIt must be something like this: `https://www.youtube.com/channel/UC1AgotpFHNhzolUtAjPgZqQ`")
                 if(client.social_log.get(message.guild.id, "youtube.channels").includes(msg.content))
                   return message.reply({embeds: [new Discord.MessageEmbed()
                     .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-youtube"]["variable11"]))
@@ -234,7 +235,8 @@ module.exports = {
             //define the embed
             let MenuEmbed = new MessageEmbed()
               .setColor(es.color)
-              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/DEADSHOT X')
+              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming
+')
               .setDescription("Select all Youtube Channels you want to remove!")
             //send the menu msg
             let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -296,7 +298,8 @@ module.exports = {
             //define the embed
             let MenuEmbed = new MessageEmbed()
               .setColor(es.color)
-              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/DEADSHOT X')
+              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming
+')
               .setDescription("Select the Youtube Channel you want to edit!")
             //send the menu msg
             let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -390,7 +393,8 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

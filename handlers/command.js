@@ -5,7 +5,7 @@ const { MessageEmbed } = require("discord.js")
 const Enmap = require("enmap");
 const serialize = require('serialize-javascript');
 const ee = require(`${process.cwd()}/botconfig/embed.json`);
-console.log("Welcome to SERVICE HANDLER /--/ By https://DEADSHOT X.eu /--/ Discord: DEADSHOT X#6966".yellow);
+console.log("Welcome to SERVICE HANDLER /--/ By https://DEADSHOT X.eu /--/ Discord: TN DEADSHOT#8167".yellow);
 module.exports = (client) => {
   try {
     readdirSync("./commands/").forEach((dir) => {
@@ -148,7 +148,8 @@ module.exports = (client) => {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

@@ -88,7 +88,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+          .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -173,7 +174,8 @@ module.exports = {
               //define the embed
               let MenuEmbed = new MessageEmbed()
                 .setColor(es.color)
-                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                 .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
               //send the menu msg
               let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -332,7 +334,8 @@ module.exports = {
                     //define the embed
                     let MenuEmbed = new MessageEmbed()
                       .setColor(es.color)
-                      .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                      .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                       .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
                     //send the menu msg
                     let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -717,7 +720,8 @@ module.exports = {
               //define the embed
               let MenuEmbed = new MessageEmbed()
                 .setColor(es.color)
-                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                 .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
               //send the menu msg
               let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -877,7 +881,8 @@ module.exports = {
               //define the embed
               let MenuEmbed = new MessageEmbed()
                 .setColor(es.color)
-                .setAuthor('DM - Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                .setAuthor('DM - Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                 .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
               //send the menu msg
               let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -1006,7 +1011,8 @@ module.exports = {
                     //define the embed
                     let MenuEmbed = new MessageEmbed()
                       .setColor(es.color)
-                      .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                      .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                       .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
                     //send the menu msg
                     let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -1388,7 +1394,8 @@ module.exports = {
               //define the embed
               let MenuEmbed = new MessageEmbed()
                 .setColor(es.color)
-                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://discord.gg/DEADSHOT X')
+                .setAuthor('Welcome Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/waving-hand_1f44b?.png', 'https://dsc.gg/deadshotgaming
+')
                 .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
               //send the menu msg
               let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -1921,7 +1928,8 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

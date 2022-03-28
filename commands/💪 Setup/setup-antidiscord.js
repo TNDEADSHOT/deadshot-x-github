@@ -94,7 +94,8 @@ module.exports = {
           .setColor(es.color)
           .setAuthor("Anti-Discord-Links System Setup", 
           "https://cdn.discordapp.com/emojis/858405056238714930.gif?v=1",
-          "https://discord.gg/DEADSHOT X")
+          "https://dsc.gg/deadshotgaming
+")
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-antidiscord"]["variable1"]))
         let used1 = false;
         //send the menu msg
@@ -424,7 +425,8 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

@@ -50,7 +50,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://github?.com/DEADSHOT X6966/discord-js-lavalink-Music-Bot-erela-js
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/TN DEADSHOT#8167/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

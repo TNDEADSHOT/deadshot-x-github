@@ -17,7 +17,8 @@ module.exports = {
     let es = client.settings.get(message.guild.id, "embed");let ls = client.settings.get(message.guild.id, "language")
     try {
       message.reply({embeds: [new Discord.MessageEmbed()
-      .setAuthor(handlemsg(client.la[ls].cmds.info.serveravatar.author, { servername: message.guild.name }), message.guild.iconURL({dynamic: true}), "https://discord.gg/DEADSHOT X")
+      .setAuthor(handlemsg(client.la[ls].cmds.info.serveravatar.author, { servername: message.guild.name }), message.guild.iconURL({dynamic: true}), "https://dsc.gg/deadshotgaming
+")
       .setColor(es.color).setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
       .addField("<:arrow:832598861813776394> PNG",`[\`LINK\`](${message.guild.iconURL({format: "png"})})`, true)
       .addField("<:arrow:832598861813776394> JPEG",`[\`LINK\`](${message.guild.iconURL({format: "jpg"})})`, true)
@@ -43,7 +44,8 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

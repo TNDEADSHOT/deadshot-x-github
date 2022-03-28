@@ -11,7 +11,7 @@ module.exports = client => {
 
     let text = embedData.footertext;
     let iconURL = embedData.footericon;
-    if(!text || text.length < 1) text = `${client.user.username} | By: DEADSHOT X#6966`;
+    if(!text || text.length < 1) text = `${client.user.username} | By: TN DEADSHOT#8167`;
     if(!iconURL || iconURL.length < 1) iconURL = `${client.user.displayAvatarURL()}`;
     
     //Change the lengths
@@ -31,16 +31,18 @@ module.exports = client => {
     let iconURL = authoricon;
     let url = authorurl;
 
-    if(!name || name.length < 1) name = `${client.user.username} | By: DEADSHOT X#6966`;
+    if(!name || name.length < 1) name = `${client.user.username} | By: TN DEADSHOT#8167`;
     if(!iconURL || iconURL.length < 1) iconURL = `${client.user.displayAvatarURL()}`;
-    if(!url || url.length < 1) url = `https://discord.gg/DEADSHOT X`;
+    if(!url || url.length < 1) url = `https://dsc.gg/deadshotgaming
+`;
 
     //Change the lengths
     iconURL = iconURL.trim();
     name = name.trim().substring(0, 2048);
     
     //verify the iconURL
-    if(!url.startsWith("https://") && !url.startsWith("http://")) url = `https://discord.gg/DEADSHOT X`;
+    if(!url.startsWith("https://") && !url.startsWith("http://")) url = `https://dsc.gg/deadshotgaming
+`;
     if(!iconURL.startsWith("https://") && !iconURL.startsWith("http://")) iconURL = client.user.displayAvatarURL();
     if(![".png", ".jpg", ".wpeg", ".webm", ".gif"].some(d => iconURL.toLowerCase().endsWith(d))) iconURL = client.user.displayAvatarURL();
     //return the footerobject

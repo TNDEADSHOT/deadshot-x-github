@@ -1700,7 +1700,7 @@ module.exports = function (client) {
     })
 
 }
-//Coded by DEADSHOT X#6966!
+//Coded by TN DEADSHOT#8167!
 function shortenLargeNumber(num, digits) {
     var units = ["k", "M", "G", "T", "P", "E", "Z", "Y"],
         decimal;

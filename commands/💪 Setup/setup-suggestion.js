@@ -101,7 +101,8 @@ module.exports = {
             }))
 
         //define the embed
-        let MenuEmbed = new MessageEmbed().setColor(es.color).setAuthor('Suggestion System', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/light-bulb_1f4a1.png', 'https://discord.gg/DEADSHOT X').setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
+        let MenuEmbed = new MessageEmbed().setColor(es.color).setAuthor('Suggestion System', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/light-bulb_1f4a1.png', 'https://dsc.gg/deadshotgaming
+').setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({
           embeds: [MenuEmbed],
@@ -727,7 +728,8 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/DEADSHOT X
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
+
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO

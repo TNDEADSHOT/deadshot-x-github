@@ -44,7 +44,7 @@ components: allbuttons
 }
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://discord.gg/CVRHqHV7yE
+ * Bot Coded by TN DEADSHOT#8167 | https://discord.gg/CVRHqHV7yE
  * @INFO
  * Work for DEADSHOT X Development | crimexop.ml
  * @INFO

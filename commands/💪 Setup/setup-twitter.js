@@ -82,7 +82,8 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Twitter Setup', 'https://cdn.discordapp.com/emojis/840255600851812393.png?size=96', 'https://discord.gg/DEADSHOT X')
+          .setAuthor('Twitter Setup', 'https://cdn.discordapp.com/emojis/840255600851812393.png?size=96', 'https://dsc.gg/deadshotgaming
+')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({
@@ -453,7 +454,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by DEADSHOT X#6966 | https://github?.com/DEADSHOT XDev/discord-js-lavalink-Music-Bot-erela-js
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/DEADSHOT XDev/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for DEADSHOT X Development | https://DEADSHOT X.eu
  * @INFO
